@@ -21,7 +21,7 @@
 		<coremodule generated="true" manager="org.training.core.jalo.TrainingCoreManager" packageroot="org.training.core"/>
 
 		
-		
+		<!-- hai......-->
 		<meta key="backoffice-module" value="true"/>
 	</extension>
 
